@@ -2,6 +2,9 @@
 
 <h2 align="right">این فایل EXE به شما کمک میکند به راحتی در ویندوز DNS دلخواهتون رو تنظیم کنید.</h2>
 
+<h5 align="right">آخرین ورژن :</h5>
+<div align="center"><a href="https://github.com/amir-v-z/Change-DNS-for-Windows/raw/refs/heads/main/dns_versions/dnsV3/dnsV3.exe"><img src="https://media.giphy.com/media/n1z5Lo9ikIh1cYvmGJ/giphy.gif?cid=790b761149dglbzomk4o6s65wiid8txvusyiptcootpjlah8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=150></a></div>
+
 <h4 align="right">روی فلش هر قسمت بزنید تا از امکانات هر ورژن مطلع شوید.</h4>
 
 <h4>دکمه دانلود هر ورژن در پایین هر بخش قرار داده شده.</h4>
